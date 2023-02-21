@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quang Minh</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/RrVJHB3KSTCznWubpd/giphy.gif?cid=ecf05e470ddaqqsiz5hqj0n9kpabmig1t0xy2mih520voj06&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/RrVJHB3KSTCznWubpd/giphy.gif?cid=ecf05e470ddaqqsiz5hqj0n9kpabmig1t0xy2mih520voj06&rid=giphy.gif&ct=g">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
