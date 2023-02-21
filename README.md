@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quang Minh</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7c/9b/4b/7c9b4b6ff870e8c8a338a2c9e215622a.gif">
-- 📫 How to reach me ** lequangminh2204@gmail.com **
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcartoon-corgi&psig=AOvVaw2vYLCaihXYNu9qkcBpo_gs&ust=1677046000162000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKDzk6v5pf0CFQAAAAAdAAAAABAE">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
